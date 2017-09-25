@@ -1,1 +1,1 @@
-# sexoffenders
+Geographic visualization of demographic and sex offender data.
